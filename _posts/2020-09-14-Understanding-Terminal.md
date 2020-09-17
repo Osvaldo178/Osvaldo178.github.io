@@ -10,4 +10,4 @@ tags:
 - cd- The ‘cd’ command allows you to change the directory. 
 - pwd- The ‘pwd’ command allows you to print the working directory. 
 - mkdir- The ‘mkdir’ command allows you to make a new folder in the terminal. 
-- md- The ‘md’ command allows the user to make a directory in a specific path. 
+- mv- The ‘mv’ command allows the user to move the contents of the source file to the target file and give it a new name 
