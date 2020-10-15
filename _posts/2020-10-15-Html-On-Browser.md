@@ -6,7 +6,7 @@ summary:
 tags: 
 ---
 
-Last week, Kajari was absent as she went on vacation, leaving us with the instruction to work on a task of a new project using Html elements. The task was for us to understand Html, Css, and Javascript more as it would be efficient in our course in web design this year. It focused on creating a to do list using sublime text and the developer tools on chrome to catch any errors. 
+Last week, Kajari was absent as she went on vacation, leaving us with the instruction to work on a task of a new project using Html elements. [This is the article we used](https://blog.usejournal.com/create-a-to-do-list-application-with-html-css-and-pure-js-533e1b07c20e)The task was for us to understand Html, Css, and Javascript more as it would be efficient in our course in web design this year. It focused on creating a to do list using sublime text and the developer tools on chrome to catch any errors. 
 
 ![Image of Developer Tools](Images/developer_console.png)
 
