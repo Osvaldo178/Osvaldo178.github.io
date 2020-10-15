@@ -1,3 +1,4 @@
+---
 layout: post
 title: 2020-10-15-Typing-Progress-Check.md
 description: 
