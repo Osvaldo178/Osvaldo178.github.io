@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typing Progress Check 
+title: Overview of Html Practice
 description: 
 summary: 
 tags: 
