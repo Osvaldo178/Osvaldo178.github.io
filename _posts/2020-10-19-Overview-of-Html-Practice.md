@@ -11,3 +11,4 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
 The Sections with Practice:
 
 * Hello, World! - The excercise focused on introducing to the user on the <title> and <p> codes. To enable the <title> in the code, the user must write the code in the <head> section and must be written as followed: <title>Example</title>. To write any body paragraph or sentence, the user must write the code in the <body> section and must be written as followed: <p>*Insert Example here*</p>. the </> in codes are used as ending to the coding sequence and that the code full plugs in.
+* Basic Elements - 
