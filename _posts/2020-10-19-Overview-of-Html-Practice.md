@@ -27,8 +27,8 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
 * Links - This section focused on introducing the user on creating a link with Html. `<a>` allows a link to be written.
 	* Creating a link Example - `<a href="https://ww.google.com">`A link to google`</a>`.
 	* Creating link within the section Example - `<a href="#faq">`Click here to read the Frequently Asked Questions`</p>`.
-	* Element ID - Using the `<id>` tag: `<h3 id="faq">`Frequently asked questions`</h3>
-<p>`The first rule about fight club is that you do not talk about fight club.`</p>`
+	* Element ID - Using the `<id>` tag: `<h3 id="faq">`Frequently asked questions`</h3>`
+`<p>`The first rule about fight club is that you do not talk about fight club.`</p>`
 * Lists - This section focuses on introducing the user to making lists in Html. `<ul>` allows an unordered list, `<ol>` allows an ordered list, and `<li>` allows the user to list elements.
 	* Example of making an ordered list - 
 	`<p>`Here is a list of ordered items:`</p>`
