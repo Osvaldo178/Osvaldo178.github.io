@@ -18,4 +18,9 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
 	* Image - `<img>` enables image coding.
 	* Divider - `<div>` enables the code.
 	* Text Span - `<span>` enables the code.
-* Images
+* Images - The excercise focused on inteoducing the user on how to add an image code using Html. `<src>` is used to specify an image's location. 
+	* Adding an image - `<img src="/static/img/code.jpg">`
+	* Sizing the image - `<img src="/static/img/code.jpg" width="100">` to `<img src="/static/img/code.jpg" style="width: 100px">`.
+	* Lossless Formats - (PNG) Useful for pixel perfect graphics such as logos.
+	* Lossy Formats - (JPG) Useful for displaying rich images.
+	* Animated Formats - (GIF) Useful for showing short animated images.
