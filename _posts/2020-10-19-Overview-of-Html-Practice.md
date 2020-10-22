@@ -37,10 +37,27 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
     `<li>`Second item`</li>`
     `<li>`Third item`</li>`
 `</ol>`
-
-
-
-
+    * Example of using numbers in an ordered list - 
+    `<p>`Here is a list of ordered items:`</p>`
+`<ol type="1">`
+    `<li>`First item`</li>`
+    `<li>`Second item`</li>`
+    `<li>`Third item`</li>`
+`</ol>`
+    * Example of making Upper case letters in an ordered list - 
+    `<p>`Here is a list of ordered items:`</p>`
+`<ol type="A">`
+    `<li>`First item`</li>`
+    `<li>`Second item`</li>`
+    `<li>`Third item`</li>`
+`</ol>`
+    * Example of making Lower case letters in an ordered list - 
+    `<p>`Here is a list of ordered items:`</p>`
+`<ol type="a">`
+   ` <li>`First item`</li>`
+    `<li>`Second item`</li>`
+   ` <li>`Third item`</li>`
+`</ol>`
 
 
 
