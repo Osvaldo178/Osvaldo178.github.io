@@ -24,3 +24,8 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
 	* Lossless Formats - (PNG) Useful for pixel perfect graphics such as logos.
 	* Lossy Formats - (JPG) Useful for displaying rich images.
 	* Animated Formats - (GIF) Useful for showing short animated images.
+* Links- This section focused on introducing the user on creating a link with Html. `<a>` allows a link to be written.
+	* Creating a link Example - `<a href="https://ww.google.com">`A link to google`</a>`.
+	* Creating ling within the section Example - `<a href="#faq">`Click here to read the Frequently Asked Questions`</p>`.
+	* Element ID - Using the `<id>` tag: `<h3 id="faq">`Frequently asked questions`</h3>
+<p>`The first rule about fight club is that you do not talk about fight club.`</p>`
