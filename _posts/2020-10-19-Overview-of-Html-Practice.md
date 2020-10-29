@@ -68,6 +68,10 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
 	`font-family: sans-serif;`
 `}`
 `</style>`
+* Selectors - This section focused on introducing the user to Querying (declare a style to apply to the CSS stylesheet, receive Html elements using the `<querySelector>` code.
+* CSS Support - CSS selectors support the `<p>` and `<h1>`-`<h6>` tags
+* Descendant and Child Selectors - Despite being able to specify and element type, ID, and class anme, creating selectors can be done using `<strong>` tags for the hierarchy of "strongblue" class example.
+* UI Libraries - This is an overview of what are CSS libraries and how to do it. CSS libraries ease the process of creating a website with little CSS knowledge. THe libraies allow developers to crate websites early on with littl or no knowledge of CSS work.
 
 
 
