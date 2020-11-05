@@ -72,6 +72,7 @@ Today, Kajari instructed Celeste and I to work on Html practice. [This is the we
 * CSS Support - CSS selectors support the `<p>` and `<h1>`-`<h6>` tags
 * Descendant and Child Selectors - Despite being able to specify and element type, ID, and class anme, creating selectors can be done using `<strong>` tags for the hierarchy of "strongblue" class example.
 * UI Libraries - This is an overview of what are CSS libraries and how to do it. CSS libraries ease the process of creating a website with little CSS knowledge. THe libraies allow developers to crate websites early on with littl or no knowledge of CSS work.
+* Bootstrap - This section focused on introducing the user to Bootstrap for designing UI. Bootstrap framework focuses on writing a plain HTML that makes the stylesheet different from the Bootstrap version. Bootstrap can be loaded by using the `<link>` tag: `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">`. CDN stands for Content Delivery networks, used for fast download speeds, and are always available and reliant. 
 
 
 
