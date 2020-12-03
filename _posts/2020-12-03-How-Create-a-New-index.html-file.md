@@ -20,4 +20,4 @@ Once in projects, commit the following commands to create an empty index.html fi
 
 * touch style.css - Allows you to style your page or website
 
-After completing the coding structure in Terminal, opne up Sublime text and open up the folder you created. On sublime text in the index.html section, add the skeleton from the following website. [This is the website we used](https://www.learn-html.org/en/Hello%2C_World%21)
+After completing the coding structure in Terminal, opne up Sublime text and open up the folder you created. On sublime text in the index.html section, add the skeleton from the following website. [This is the website we used](https://www.learn-html.org/en/Hello%2C_World%21).
