@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monster Positioning
+title: Position Monsters in Top Left and Top Right of Canvas
 description: 
 summary: 
 tags: 
