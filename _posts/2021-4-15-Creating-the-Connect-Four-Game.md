@@ -5,7 +5,7 @@ description:
 summary: 
 tags: 
 ---
-Today, I began work by writing the previous work day's blog post talking about the Whack-A-Mole game. I than transitioned into progressing onto the fourth game, Connect Four. The game consists of two players competing in a tic-tac-toe style game, where the first player to get a row of the same colored dots wins. The instructer introduced a grid necessary for the game. The grid was 7 by 6 and was create dusing the code `<d>`. `<d>` defines the section we will use for the grid. After creating the grid, we than created a code set for player color. 
+Today, I began work by writing the previous work day's blog post talking about the Whack-A-Mole game. I than transitioned into progressing onto the fourth game, Connect Four. The game consists of two players competing in a tic-tac-toe style game, where the first player to get a row of the same colored dots wins. The instructor introduced a grid necessary for the game. The grid was 7 by 6 and was create dusing the code `<d>`. `<d>` defines the section we will use for the grid. After creating the grid, we than created a code set for player color. 
 ```.player-one {
   background-color: Red;
   border-radius: 10px;```
