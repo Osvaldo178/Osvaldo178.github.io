@@ -5,7 +5,7 @@ description:
 summary: 
 tags: 
 ---
-Today, we continued the practice and began working on the Space Invaders game. The game revolves around the player trying to shoot as many invaders as they can, while avoidng the invader's lasers. The main objective is for the player to destroy all the invaders.
+Today, we continued the practice and began working on the Space Invaders game. The game revolves around the player trying to shoot as many invaders as they can, while avoidng the invader's lasers. [Link to the Space Invaders game](https://osvaldo178.github.io/space-invaders/)The main objective is for the player to destroy all the invaders.
 We started working on the code firstly with the html file, by creating a 15 x 15 grid for the game. The 15 x 15 grid consist of 225 ```<div>``` codes, which is a fairly large grid. I created 10 ```<grid>``` codes, copied it, than pasted it multiple times until 225 ```<grids>``` were created to not waste time. I than moved on to creating a seperate tag for score display everytime the player destroyed an invader. 
 
 ```
