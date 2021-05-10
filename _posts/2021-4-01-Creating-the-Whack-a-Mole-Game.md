@@ -5,7 +5,7 @@ description:
 summary: 
 tags: 
 ---
-Today, I worked on typing club for 30 minutes, and sent my progress to Kajari after. Then, I continued my progression on the game exercises I began, continuing to game three, Whack-a-Mole. The game consisted of the player trying the whack the mole in a specific amount of time, while also trying to get the highest score. While listening to the instructor explain certain codes, she gave a list of codes necessary for the game to work.
+Today, I worked on typing club for 30 minutes, and sent my progress to Kajari after. Then, I continued my progression on the game exercises I began, continuing to game three, Whack-a-Mole. The game consisted of the player trying the whack the mole in a specific amount of time, while also trying to get the highest score. [Link to the Whack-a-Mole Game](https://osvaldo178.github.io/WHACK-A-MOLE/) While listening to the instructor explain certain codes, she gave a list of codes necessary for the game to work.
 
 * setinterval() - Executes a specific funtions countless times at set time intervals specified in milliseconds
 * classlist - Returns the class name of an element as DOMTokenList. ClassList also adds, toggles, and removes CSS classes of an element, and can only be modified with add() and remove().
